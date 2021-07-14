@@ -47,10 +47,22 @@ ul{
     display:flex;
     flex:auto;
     font-size:large;
+    width:auto; 
+     height:300px;
+     position:relative;
 }
+ .photo{
+      width:auto; 
+     height:300px;
+     /* position:relative; */
+     
+ }
  #headshot{
-     width:175px;
-     height:500px;
+    width:200px;
+    height:auto;
+ }
+ .info{
+    /* position:relative; */
  }
 
 #project a{
@@ -86,3 +98,4 @@ ul{
   footer{
       text-align:center;
   }
+  
