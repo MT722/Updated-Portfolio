@@ -42,16 +42,18 @@ ul{
 }
 
 
-hr, 
-.bio{
-    width:auto;
-    height:auto;
+
+#bio{
     display:flex;
     flex:auto;
-    
+    font-size:large;
 }
+ #headshot{
+     width:175px;
+     height:500px;
+ }
 
-.project a{
+#project a{
     width:70%;
     height: auto;
 }
