@@ -61,13 +61,10 @@ ul{
     width:200px;
     height:auto;
  }
- .info{
-    /* position:relative; */
- }
+ 
 
-#project a{
-    width:70%;
-    height: auto;
+#projects {
+    background-color:#4392aa;
 }
 
 @media screen and (max-width: 600px) {
@@ -97,5 +94,5 @@ ul{
   
   footer{
       text-align:center;
+      background-color:rgb(55, 120, 122);
   }
-  
