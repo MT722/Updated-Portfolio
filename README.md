@@ -15,5 +15,5 @@ VS Code[href:"https://git-scm.com/"]
 
 
 ## Links
- github: [href:"https://github.com/MT722/Advanced-CSS-Portfolio"]
- deployed site:[href:"https://mt722.github.io/Advanced-CSS-Portfolio/"]
+ github: [href:"https://github.com/MT722/Updated-Portfolio"]
+ deployed site:[href:"https://mt722.github.io/Updated-Portfolio/"]
